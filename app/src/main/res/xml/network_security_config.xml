@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system"/>
+            <certificates src="user"/>
+        </trust-anchors>
+    </base-config>
+    <domain-config>
+        <domain includeSubdomains="true">jsonkeeper.com</domain>
+        <domain includeSubdomains="true">mockapi.io</domain>
+        <trust-anchors>
+            <certificates src="system"/>
+            <certificates src="user"/>
+        </trust-anchors>
+        <debug-overrides>
+            <trust-anchors>
+                <certificates src="user"/>
+                <certificates src="debug-overrides"/>
+            </trust-anchors>
+        </debug-overrides>
+    </domain-config>
+</network-security-config>

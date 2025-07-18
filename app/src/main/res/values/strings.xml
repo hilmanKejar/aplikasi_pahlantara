@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">PAHLANTARA</string>
+    <string name="pahlawan">Pahlawan</string>
+    <string name="kembali">Kembali</string>
+    <string name="daftar">Daftar</string>
+    <string name="tambah_pahlawan_baru">Tambah Pahlawan</string>
+    <string name="tampilkan_lebih_detail">Tampilkan Lebih Detail</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="foto_pahlawan">Foto Pahlawan</string>
+    <string name="pilih_gambar">Pilih Pahlawan</string>
+
+    <string name="judul_form_pahlawan">Form Pahlawan</string>
+    <string name="nama_pahlawan">Nama Pahlawan</string>
+    <string name="cerita_singkat">Cerita Singkat</string>
+    <string name="cerita_lengkap">Cerita Lengkap</string>
+    <string name="id_resource_foto_drawable">ID Resource Foto (misal: R.drawable.nama_gambar)</string>
+    <string name="simpan">Simpan</string>
+    <string name="preview_foto">Preview Foto</string>
+    <string name="foto_pahlawan_detail">Foto Pahlawan Detail</string>
+    <string name="login_title">PAHLANTARA</string>
+    <string name="deskripsi_aplikasi">Aplikasi mengenal para pahlawan nusantara indonesia</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Masuk</string>
+    <string name="daftar_sebagai_penerbit_button">daftar sebagai penerbit ?</string>
+    <string name="masuk_sebagai_tamu_button">masuk menjadi tamu</string>
+
+    <string name="sumber_data_pahlawan">sumber cerita</string>
+    <string name="nama_pembuat">nama pembuat</string>
+
+    <string name="edit_pahlawan">Ubah Pahlawan</string>
+    <string name="placeholder_nama_pahlawan">masukan nama pahlawan</string>
+    <string name="placeholder_deskripsi_singkat">masukan deskripsi singkat pahlawan</string>
+    <string name="search_hint">Cara Pahlawan</string>
+
+    <string name="register_title">Daftar Sebagai Penerbit</string>
+    <string name="confirm_password_hint">Ulang Password</string>
+    <string name="register_button">Daftar</string>
+    <string name="sudah_punya_akun_login">sudah punya akun ?</string>
+
+    <string name="admin_panel_title">Pahlantar</string>
+    <string name="kelola_akun_penerbit">Kelola akun penerbit</string>
+    <string name="kelola_data_pahlawan">kelola data pahlawan</string>
+    <string name="logout">Keluar</string>
+
+    <string name="kelola_akun_penerbit_title">Pengajuan Pembuatan Akun Penerbit</string>
+</resources>
