@@ -1,7 +1,11 @@
 # UAS Pemrograman Mobile ITBS-ABDUL HILMAN THIUSANA - aplikasi_pahlantara 
 
 
-Penjelasan Aplikasi sudah berada pada google docs yang dikirim kan ke GCR berikut screenshoot aplikasi pahlantara 
+Penjelasan Aplikasi sudah berada pada google docs yang dikirim kan ke GCR berikut screenshoot aplikasi pahlantara dan link google docs penjelasannya :
+
+Link google docs : https://docs.google.com/document/d/1Cvf2GsE1m8xnl_-2eWlERpwVG4-UUrrsNNOvRgU5_Cc/
+
+Berikut foto aplikasinya :
 
 ![WhatsApp Image 2025-07-18 at 23 45 48](https://github.com/user-attachments/assets/e1d0b7dc-2957-423e-9edf-183b35affd0d)
 
