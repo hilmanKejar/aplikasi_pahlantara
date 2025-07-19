@@ -3,6 +3,8 @@
 Aplikasi PAHLANTARA (Pahlawan Nusantara) adalah aplikasi Android yang menampilkan dan mengelola data pahlawan nasional indonesia. Aplikasi ini mengambil informasi pahlawan dari API eksternal (MockAPI.io), sekaligus memungkinkan pengguna dengan peran admin atau penerbit untuk menambah, mengedit, dan menghapus data pahlawan secara langsung melalui fitur CRUD.
 Dilengkapi sistem autentikasi, aplikasi ini membedakan akses berdasarkan peran: admin memiliki kontrol penuh termasuk persetujuan akun penerbit yang baru mendaftar, sementara penerbit dapat berkontribusi pada data pahlawan lalu adapun masuk sebagai tamu yang akan anda temukan di halaman login agar langsung bisa melihat data pahlawan namun ini hanya melihat saja. Dibangun dengan Java di Android Studio, aplikasi ini menggunakan Volley untuk komunikasi API, Glide untuk gambar. Proyek ini mendemonstrasikan integrasi API dan manajemen akses berbasis peran.
 
+# Untuk Demo Aplikasi Pahlantara anda bisa mendownload Aplikasinya di file commit di atas yang bernama apk-debug.apk
+
 Penjelasan lengkap Aplikasi sudah berada pada google docs yang dikirim kan ke GCR berikut screenshoot aplikasi pahlantara dan link google docs penjelasannya :
 
 Link google docs : https://docs.google.com/document/d/1Cvf2GsE1m8xnl_-2eWlERpwVG4-UUrrsNNOvRgU5_Cc/
